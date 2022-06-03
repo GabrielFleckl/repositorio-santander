@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.flex{
+    display: flex;
+    max-width: 300px;
+    padding: 10px;
+    border: 2px solid black;
+
+}
+
+.item {
+    background-color: aqua;
+    margin: 5px;
+
+}
